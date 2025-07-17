@@ -1,0 +1,7 @@
+pandas
+matplotlib
+prophet
+scikit-learn
+openpyxl
+dash
+plotly
